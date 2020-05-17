@@ -2,5 +2,5 @@
 ### - Amazing string
 ### - Compare version strings
 ### - Palindrome
-### - Minimum strings needed to make a string palindrome
+### - Minimum chars needed to make a string palindrome
  
