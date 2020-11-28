@@ -8,6 +8,6 @@ Repository is dedicated to host interesting String problems mostly from popular 
 4. [Reorder Data](https://github.com/KumarAbhinav2/Strings/blob/master/reorder_data_in_log_files(LTE-937).py)
 5. [Longest Palindromic Substring](https://github.com/KumarAbhinav2/Strings/blob/master/Longest_Palindromic_Substring(LTM-5).py)
 6. [Partition labels](https://github.com/KumarAbhinav2/Strings/blob/master/partition_labels(LTM-763).py) 
-7. [Sort Chars by frequency][https://github.com/KumarAbhinav2/Strings/blob/master/sort_characters_by_freq(LTM-451).py]
+7. [Sort Chars by frequency](https://github.com/KumarAbhinav2/Strings/blob/master/sort_characters_by_freq(LTM-451).py)
 
  
