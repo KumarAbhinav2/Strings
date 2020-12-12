@@ -11,5 +11,6 @@ Repository is dedicated to host interesting String problems mostly from popular 
 7. [Sort Chars by frequency](https://github.com/KumarAbhinav2/Strings/blob/master/sort_characters_by_freq(LTM-451).py)
 8. [First unique char in String](https://github.com/KumarAbhinav2/Strings/blob/master/first_unique_char_in_string(LTE-387).py)
 9. [Compress String](https://github.com/KumarAbhinav2/Strings/blob/master/compressString.py)
+10. [Valid Parenthesis](https://github.com/KumarAbhinav2/Strings/blob/master/validParenthesis(LTE-20).py)
 
  
