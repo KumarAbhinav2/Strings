@@ -13,5 +13,6 @@ Repository is dedicated to host interesting String problems mostly from popular 
 9. [Compress String](https://github.com/KumarAbhinav2/Strings/blob/master/compressString.py)
 10. [Valid Parenthesis](https://github.com/KumarAbhinav2/Strings/blob/master/validParenthesis(LTE-20).py)
 11. [Compressed String Iterator](https://github.com/KumarAbhinav2/Strings/blob/master/designCompressedStringIterator(LTE-604).py)
+12. [Reverse String inplace](https://github.com/KumarAbhinav2/Strings/blob/master/reverseStringInPlace.py) 
 
  
