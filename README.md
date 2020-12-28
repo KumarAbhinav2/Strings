@@ -17,5 +17,5 @@ Repository is dedicated to host interesting String problems mostly from popular 
 13. [Longest Common Prefix](https://github.com/KumarAbhinav2/Strings/blob/master/longestCommonPrefix(LTE-14).py)
 14. [Valid Palindrome II - EASY](https://github.com/KumarAbhinav2/Strings/blob/master/validPalindromeII(LTE-680).py)
 15. [Add Binary Numbers - EASY](https://github.com/KumarAbhinav2/Strings/blob/master/addBinary(LTE-67).py)
-
+16. [Verifying Alien Dictionary](https://github.com/KumarAbhinav2/Strings/blob/master/verifyingAlienDictionary(LTE-953).py)
  
